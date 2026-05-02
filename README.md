@@ -13,7 +13,7 @@
 
 **`Systems Engineer · Penetration Tester · Offensive Security · Network Engineer`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Researcher;Network+Reconnaissance+%26+Vulnerability+Analysis;Ethical+Hacking+%7C+Endpoint+Defense;%22Break+it+to+secure+it.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Researcher;Network+Reconnaissance+%26+Vulnerability+Analysis;Ethical+Hacking+%7C+Endpoint+Defense;%22.)](https://git.io/typing-svg)
 
 </div>
 
