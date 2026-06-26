@@ -11,9 +11,15 @@
 
 # Kitsana Thuekoh
 
-**`Systems Engineer · Penetration Tester · Offensive Security · Network Engineer`**
+**`Penetration Tester · Offensive Security Researcher · Vulnerability Disclosure`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Researcher;Network+Reconnaissance+%26+Vulnerability+Analysis;Ethical+Hacking+%7C+Endpoint+Defense;%22.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=HTB+CPTS+%7C+OSCP+%7C+CompTIA+PenTest%2B+%7C+Security%2B;NASA+Vulnerability+Disclosure+Program+%E2%80%94+Letter+of+Recognition;Full+Attack+Chain+%7C+MITRE+ATT%26CK+Aligned;Active+Directory+%7C+Web+App+%7C+Network+Penetration+Testing)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kitsana-thuekoh-66ba9b314/)
+[![GitHub](https://img.shields.io/badge/GitHub-vetementsvmnts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vetementsvmnts)
+[![Location](https://img.shields.io/badge/Johannesburg,_ZA-Open_to_Remote-00FF41?style=for-the-badge&logo=googlemaps&logoColor=white)](mailto:kitsanathuekoh@gmail.com)
 
 </div>
 
@@ -21,140 +27,258 @@
 
 ## `whoami`
 
-I'm a **Penetration Tester, Systems Engineer, and Cybersecurity Researcher** who approaches every network, application, and system through the eyes of an attacker because understanding how things break is the only way to truly secure them.
+CPTS-certified penetration tester and **NASA-acknowledged vulnerability researcher** who approaches every network, application, and system through the eyes of an attacker. I execute full attack chains aligned with **MITRE ATT&CK** — from initial reconnaissance through domain compromise — and translate findings into structured, executive-ready reports with actionable remediation guidance.
 
-With a foundation in **IT Security Management**, **Endpoint Protection**, and formal training in **Ethical Hacking**, I operate at the intersection of offensive research and secure engineering. Whether I'm mapping attack surfaces, hardening API layers, or building automation tooling for vulnerability analysis, the goal is always the same: eliminate blind spots before adversaries find them.
-
-Currently studying at the **Boston Institute of Analytics** with a specialization in Cybersecurity & Ethical Hacking, and holding an **Associate's Degree in Information Technology** from the University of Acacia  I pair academic rigor with hands-on lab practice across real-world attack scenarios.
-
+Currently conducting red team engagements at **AI FinchTech** targeting web applications and REST/GraphQL APIs, while deepening Active Directory offensive capability and building automated threat hunting tooling that bridges offensive telemetry to SOC workflows.
 
 ---
 
-## 🔴 Cybersecurity Focus
-
-| Domain | Scope |
-|---|---|
-| **Offensive Security** | Network reconnaissance, vulnerability research, credential interception in authorized lab environments |
-| **Network Engineering** | Traffic analysis, protocol exploitation, lateral movement simulation |
-| **Defensive Architecture** | Hardened endpoints, encrypted API surfaces, zero-trust principles |
-| **Research** | NTLMv2 hash analysis, Responder-based interception, automated CVE scanning |
-| **Secure Development** | Threat-modeled application design, secure B2C/SaaS architecture |
-
----
-
-## 🛠️ Technical Arsenal
-
-**Security & Infrastructure**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-3E4444?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Responder](https://img.shields.io/badge/Responder-CC0000?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Development Stack**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Tools & Environment**
-
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🔬 Research & Lab Work
-
-```
-[LAB] NTLMv2 Hash Interception         → Responder + Hashcat pipeline in isolated AD environments
-[LAB] Network Reconnaissance Workflow   → Nmap scripting engine (NSE) + custom enumeration scripts
-[LAB] Vulnerability Scanning Automation → Python-driven CVE triage and report generation
-[LAB] Credential Attack Surfaces        → SMB relay attacks, pass-the-hash techniques (authorized)
-[LAB] Secure API Hardening              → Token rotation, rate-limiting, and anomaly detection layers
-```
-
-> ⚠️ All offensive research is conducted in **authorized, isolated lab environments** for educational and professional development purposes.
-
----
-
-## 🎓 Education
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  INSTITUTION   Boston Institute of Analytics                             │
-│  QUALIFICATION    Cybersecurity Specialization & Ethical Hacking         |
-│  FOCUS AREAS   Penetration Testing · Threat Intelligence ·               │
-│                Exploit Development · Ethical Hacking Methodology         │
-└──────────────────────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────────────────────┐
-│  INSTITUTION   University of Acacia                                      │
-│  QUALIFICATION Associate's Degree — Information Technology               │
-│  PERIOD        Feb 2023 – Jul 2025                                       │
-│  FOCUS AREAS   Network Infrastructure · Systems Administration ·         │
-│                Software Engineering Fundamentals · IT Security           │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📜 Licenses & Certifications
+## ◈ Verified Credentials
 
 ```bash
-$ verify --credentials kitsana.thuekoh --issuer all
-[✔] Resolving credential chain...
-[✔] Cross-referencing issuing authorities...
-[✔] All credentials verified.
+$ certcheck --operator kitsana.thuekoh --verbose
 ```
 
-| Badge | Certification | Issuing Body | Issued | Core Competencies |
-|:---:|---|---|:---:|---|
-| 🔵 | **Endpoint Security** | Cisco — Credly Verified | `Aug 2024` | Endpoint threat detection & response, EDR/XDR fundamentals, malware triage, network access control policy enforcement, host-based intrusion prevention |
-| 🟢 | **Advanced Full Stack Development** | Industry Certified | `NOV 2025` | Secure SDLC, API threat modeling, injection prevention, auth architecture, encrypted data transport |
-| 🔐 | **IT Security Management** | Industry Certified | `JUN 2025` | Risk assessment frameworks (NIST/ISO), security governance, incident response lifecycle, audit & compliance alignment |
-| 🛡️ | **Endpoint Protection Specialist** | Industry Certified | `AUG 2024` | DLP policy design, host hardening, vulnerability lifecycle management, HIDS configuration, attack surface reduction |
-| 🧠 | **Data Structures & Algorithms** | Industry Certified | `NOV 2025` | Algorithmic complexity analysis, optimized data pipelines for security tooling, graph traversal for network mapping |
+| | Certification | Authority | Status |
+|:---:|---|---|:---:|
+| 🔴 | **CPTS** — Certified Penetration Testing Specialist | HackTheBox | `ACTIVE` |
+| 🟠 | **OSCP** — Offensive Security Certified Professional | Offsec | `ACTIVE` |
+| 🔵 | **PenTest+** | CompTIA | `ACTIVE` |
+| 🟢 | **Security+** | CompTIA | `ACTIVE` |
+| 🛰️ | **NASA VDP** — Letter of Recognition | NASA | `AWARDED` |
+| 🔒 | **ISC2** | International Information System Security Certification Consortium | `ACTIVE` |
 
+> 🛰️ **NASA Recognition:** Responsibly disclosed critical vulnerabilities in production NASA public-facing systems through the Vulnerability Disclosure Program. Proof-of-concept exploits accepted, all findings patched by NASA security team.
 
 ---
 
-## 📊 Threat Lab Stats
+## ◈ Key Impact
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41&icon_color=00FF41" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41" height="165" alt="Top Languages" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+**`20+`**
+<br/>HTB Machines Rooted
+<br/><sub>Kerberoasting · AS-REP Roasting<br/>Pass-the-Hash · Golden Ticket</sub>
+
+</td>
+<td align="center" width="25%">
+
+**`6,000+`**
+<br/>Telemetry Events Processed
+<br/><sub>7 Critical · 71 High findings<br/>Zero third-party dependencies</sub>
+
+</td>
+<td align="center" width="25%">
+
+**`30%`**
+<br/>Attack Surface Reduction
+<br/><sub>Network segmentation · Firewall<br/>hardening · CVE remediation</sub>
+
+</td>
+<td align="center" width="25%">
+
+**`40%`**
+<br/>Assessment Time Reduced
+<br/><sub>Python recon automation<br/>standardized data collection</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Active Engagements
+
+```
+[ROLE]     Penetration Tester & Vulnerability Researcher
+[EMPLOYER] AI FinchTech (Stealth Startup) — Remote         May 2026 – Present
+           ├─ Full-scope red team engagements: web apps & REST/GraphQL APIs
+           ├─ Chained low/medium findings → high-impact attack paths
+           ├─ Custom payloads bypassing WAFs, rate limiting & auth controls
+           └─ Blind assessments simulating real-world threat actor TTPs
+
+[ROLE]     Network Engineer Consultant
+[EMPLOYER] Synk, Johannesburg                              Jan 2024 – Sep 2025
+           ├─ CVSS-triaged vulnerability findings correlated across SIEM & Windows event logs
+           ├─ Python automation reduced manual assessment time by 40%
+           └─ Technical + executive reporting: attack chains, risk posture, remediation
+
+[ROLE]     Cybersecurity Intern
+[EMPLOYER] Synk, Johannesburg                              Jan 2023 – Dec 2023
+           ├─ Structured attack chain documentation & remediation strategy support
+           ├─ Vulnerability scanning, finding triage, critical escalation
+           └─ IOC correlation across security telemetry
+```
+
+---
+
+## ◈ Technical Projects
+
+<details>
+<summary><b>🛰️ NASA Vulnerability Disclosure Program — Letter of Recognition</b></summary>
+<br/>
+
+- Identified critical vulnerabilities in **production public-facing NASA systems** through authorized testing
+- Developed and submitted proof-of-concept exploits with detailed remediation guidance
+- All findings **accepted and patched** by the NASA security team
+- Demonstrated disciplined operation within legal scope boundaries and responsible disclosure timelines
+
+</details>
+
+<details>
+<summary><b>🔍 Threat Hunting Automation Framework (PowerShell)</b></summary>
+<br/>
+
+Architected an **agentless, zero-dependency PowerShell framework** ingesting native Windows telemetry — Event Logs, Sysmon, Defender, Registry, WMI, Scheduled Tasks — across 6 modular risk-classification engines.
+
+```
+FINDINGS  →  7 Critical  |  71 High-risk  (from 6,000+ telemetry events)
+
+DETECTED  →  PowerShell execution policy bypass
+             COM object abuse (MITRE T1546.015)
+             Local group enumeration reconnaissance
+             Registry-based persistence mechanisms
+
+OUTPUT    →  Dark-themed HTML dashboard
+             Sortable risk-prioritized tables
+             Modular CSV exports for SIEM ingestion / SOC handoff
+```
+
+</details>
+
+<details>
+<summary><b>🌐 Web Application Security Portfolio (12+ CVSS-scored Reports)</b></summary>
+<br/>
+
+Methodology-driven assessments against Juice Shop, DVWA, and PortSwigger Web Security Academy, aligned with **OWASP Testing Guide v4.2**.
+
+| Vector | Technique |
+|---|---|
+| **SQL Injection** | Union-based → Blind Boolean → Time-based inference; bypassed input validation without error feedback |
+| **XSS** | Chained Stored XSS with session hijacking → full account takeover; DOM-based XSS in client-side sinks |
+| **Auth Bypass** | JWT algorithm confusion (none/HS256), weak secret brute-forcing |
+| **IDOR** | Unauthorized record access via object reference manipulation |
+| **SSRF / CSRF** | Internal network probing; authenticated action execution without user consent |
+
+</details>
+
+<details>
+<summary><b>⚡ Vulnerability Assessment — CVE-2010-4221 (CVSS 10.0)</b></summary>
+<br/>
+
+Authorized penetration test against Ubuntu 16.04.3 LTS identifying **ProFTPD 1.3.3c backdoor** — a decade-old unpatched vulnerability exposing unauthenticated remote root access.
+
+```
+RECON      →  Nmap service/version enumeration identified ProFTPD 1.3.3c on non-standard port
+RESEARCH   →  Correlated version fingerprint to CVE-2010-4221; validated backdoor presence
+EXPLOIT    →  Weaponized Metasploit module → unauthenticated root-level RCE
+POST-EXPL  →  /etc/shadow extraction · process enumeration · lateral movement analysis
+```
+
+</details>
+
+---
+
+## ◈ Technical Arsenal
+
+**Offensive Frameworks**
+
+![Metasploit](https://img.shields.io/badge/Metasploit-3E4444?style=flat-square&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-CC0000?style=flat-square&logoColor=white)
+![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-4EAA25?style=flat-square&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-3E4444?style=flat-square&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/JtR-444?style=flat-square&logoColor=white)
+
+**Active Directory**
+
+![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-3E4444?style=flat-square&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-FF4444?style=flat-square&logoColor=white)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-4EAA25?style=flat-square&logoColor=white)
+![Rubeus](https://img.shields.io/badge/Rubeus-557C94?style=flat-square&logoColor=white)
+![PowerView](https://img.shields.io/badge/PowerView-3178C6?style=flat-square&logoColor=white)
+
+**Network & Analysis**
+
+![Nmap](https://img.shields.io/badge/Nmap_(NSE)-4EAA25?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00BFFF?style=flat-square&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-3E4444?style=flat-square&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat-square&logoColor=white)
+
+**SIEM & Detection**
+
+![Splunk](https://img.shields.io/badge/Splunk_(SPL)-000?style=flat-square&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-FF6900?style=flat-square&logoColor=white)
+
+**Development**
+
+![Python](https://img.shields.io/badge/Python_(Scapy·Impacket·Requests)-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell_(WMI·CIM·.NET)-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+---
+
+## ◈ MITRE ATT&CK Coverage
+
+```
+RECONNAISSANCE     T1595  Active Scanning · T1589 Credential gathering
+INITIAL ACCESS     T1190  Exploit Public-Facing Application · T1566 Phishing simulation
+EXECUTION          T1059  PowerShell · Bash · T1203 Exploitation for Client Execution
+PERSISTENCE        T1546  COM Hijacking (T1546.015) · T1053 Scheduled Tasks · T1547 Registry Run Keys
+PRIVILEGE ESCAL.   T1548  SUID/SGID Abuse · T1055 Process Injection · T1134 Token Manipulation
+CREDENTIAL ACCESS  T1003  OS Credential Dumping · T1558 Kerberoasting · T1110 Brute Force
+LATERAL MOVEMENT   T1550  Pass-the-Hash · T1021 Remote Services · T1563 Remote Session Hijacking
+IMPACT             T1485  Data Destruction · T1490 Inhibit System Recovery
+```
+
+---
+
+## ◈ Lab & Continuous Development
+
+```bash
+$ cat /ops/current_focus.log
+
+[ACTIVE]  Active Directory attack path deepening
+          └─ Kerberoasting, AS-REP Roasting, Golden/Silver Ticket, DCSync
+
+[ACTIVE]  PortSwigger Web Security Academy
+          └─ 50+ labs completed: SQLi, XSS, CSRF, SSRF, JWT, API security
+
+[ACTIVE]  VulnHub / HackTheBox
+          └─ 20+ machines rooted across Windows & Linux environments
+
+[ACTIVE]  TryHackMe
+          └─ Junior Penetration Tester & Red Teaming paths completed
+
+[BUILDING] Lab rebuild automation scripts (clean pentesting environments)
+[BUILDING] Secure-by-default SaaS architecture research
+```
+
+---
+
+## ◈ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vetementsvmnts&show_icons=true&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetementsvmnts&layout=compact&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41&hide_border=false" height="160"/>
 </p>
-
----
-
-## ⚙️ Current Operations
-
-- 🔍 Deepening expertise in **Active Directory attack paths** and mitigation strategies
-- 🧪 Building automated **lab rebuild scripts** for rapid, clean pentesting environments
-- 🛡️ Researching **secure-by-default SaaS architecture** patterns
-- ⌨️ Refining terminal workflows: `Neovim` + `tmux` + custom `ZSH` for offensive ops efficiency
-
----
-
-## 📡 Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kitsana-thuekoh-66ba9b314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=00FF41"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vetementsvmnts&theme=chartreuse-dark&border=00FF41&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="160"/>
 </p>
 
 ---
 
 <div align="center">
 
-=
+*Penetration Tester · Offensive Security Researcher · NASA VDP Recognized*
+<br/>
+`kitsanathuekoh@gmail.com` · Johannesburg, ZA · Open to Remote
+
 </div>
