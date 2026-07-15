@@ -21,6 +21,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-vetementsvmnts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vetementsvmnts)
 [![Location](https://img.shields.io/badge/Johannesburg,_ZA-Open_to_Remote-00FF41?style=for-the-badge&logo=googlemaps&logoColor=white)](mailto:kitsanathuekoh@gmail.com)
 
+<br/>
+
+<!-- Stack strip — every icon here maps to something in this profile (OS targets, dev tooling, scripting, CI, contact) -->
+[![My Stack](https://skillicons.dev/icons?i=kali,linux,debian,redhat,mint,windows,docker,git,github,githubactions,gitlab,py,bash,powershell,vscode,postman,gmail,linkedin,discord&theme=dark&perline=10)](https://skillicons.dev)
+
 </div>
 
 ---
@@ -260,6 +265,24 @@ $ cat /ops/current_focus.log
 [BUILDING] Lab rebuild automation scripts (clean pentesting environments)
 [BUILDING] Secure-by-default SaaS architecture research
 ```
+
+---
+
+## ◈ Live Activity Feed
+
+```bash
+$ tail -f /var/log/contribution_grid.log --follow
+```
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vetementsvmnts/vetementsvmnts/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vetementsvmnts/vetementsvmnts/output/github-contribution-grid-snake.svg" />
+    <img alt="a matrix-green snake eating Kitsana's github contribution graph" src="https://raw.githubusercontent.com/vetementsvmnts/vetementsvmnts/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<sub>Auto-regenerated every 24h by GitHub Actions — see `.github/workflows/snake.yml`. Requires a repo literally named `vetementsvmnts` (a GitHub profile README repo) with an `output` branch. Setup steps below.</sub>
 
 ---
 
