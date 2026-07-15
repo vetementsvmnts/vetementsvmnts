@@ -23,8 +23,8 @@
 
 <br/>
 
-<!-- Stack strip — every icon here maps to something in this profile (OS targets, dev tooling, scripting, CI, contact) -->
-[![My Stack](https://skillicons.dev/icons?i=kali,linux,debian,redhat,mint,windows,docker,git,github,githubactions,gitlab,py,bash,powershell,vscode,postman,gmail,linkedin,discord&theme=dark&perline=10)](https://skillicons.dev)
+<!-- Stack strip — target OS environments, exploit/scripting languages, and infra relevant to offensive security & red team tooling -->
+[![My Stack](https://skillicons.dev/icons?i=kali,linux,debian,redhat,mint,windows,py,bash,powershell,regex,vim,git,github,githubactions,gitlab,docker,mysql,nginx,aws,azure&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
