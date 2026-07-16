@@ -20,11 +20,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kitsana-thuekoh-66ba9b314/)
 [![GitHub](https://img.shields.io/badge/GitHub-vetementsvmnts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vetementsvmnts)
 [![Location](https://img.shields.io/badge/Johannesburg,_ZA-Open_to_Remote-00FF41?style=for-the-badge&logo=googlemaps&logoColor=white)](mailto:kitsanathuekoh@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=vetementsvmnts&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)](https://github.com/vetementsvmnts)
 
 <br/>
 
-<!-- Stack strip — target OS environments, exploit/scripting languages, and infra relevant to offensive security & red team tooling -->
+<!-- Stack strip -->
 [![My Stack](https://skillicons.dev/icons?i=kali,linux,debian,redhat,mint,windows,py,bash,powershell,regex,vim,git,github,githubactions,gitlab,docker,mysql,nginx,aws,azure&theme=dark&perline=10)](https://skillicons.dev)
+
+<br/>
+
+<!-- Quick nav — jumps within the page -->
+<p align="center">
+  <a href="#-whoami">whoami</a> •
+  <a href="#-verified-credentials">Credentials</a> •
+  <a href="#-key-impact">Impact</a> •
+  <a href="#-active-engagements">Engagements</a> •
+  <a href="#-technical-projects">Projects</a> •
+  <a href="#-technical-arsenal">Arsenal</a> •
+  <a href="#-mitre-attck-coverage">ATT&CK</a> •
+  <a href="#-contribution-activity">Activity</a> •
+  <a href="#-lets-connect">Connect</a>
+</p>
 
 </div>
 
@@ -35,6 +51,19 @@
 CPTS-certified penetration tester and **NASA-acknowledged vulnerability researcher** who approaches every network, application, and system through the eyes of an attacker. I execute full attack chains aligned with **MITRE ATT&CK** — from initial reconnaissance through domain compromise — and translate findings into structured, executive-ready reports with actionable remediation guidance.
 
 Currently conducting red team engagements at **AI FinchTech** targeting web applications and REST/GraphQL APIs, while deepening Active Directory offensive capability and building automated threat hunting tooling that bridges offensive telemetry to SOC workflows.
+
+<details>
+<summary>🎯 <b>Ask me about...</b> <sub>(click to expand)</sub></summary>
+<br/>
+
+- Active Directory attack paths — Kerberoasting, AS-REP Roasting, Golden/Silver Tickets, DCSync
+- Chaining low/medium findings into critical attack paths on live red team engagements
+- Building agentless PowerShell threat-hunting tooling from native Windows telemetry
+- Mobile application reverse engineering — static/dynamic analysis, Frida instrumentation, APK teardown
+- Responsible disclosure workflows and coordinating with vendor security teams (incl. NASA VDP)
+- Bridging offensive security findings into SOC-ready SIEM detections
+
+</details>
 
 ---
 
@@ -51,9 +80,18 @@ $ certcheck --operator kitsana.thuekoh --verbose
 | 🔵 | **PenTest+** | CompTIA | `ACTIVE` |
 | 🟢 | **Security+** | CompTIA | `ACTIVE` |
 | 🛰️ | **NASA VDP** — Letter of Recognition | NASA | `AWARDED` |
-| 🔒 | **ISC2** | International Information System Security Certification Consortium | `ACTIVE` |
+| 🔒 | **ISC2 CC** | ISC2 | `ACTIVE` |
 
-> 🛰️ **NASA Recognition:** Responsibly disclosed critical vulnerabilities in production NASA public-facing systems through the Vulnerability Disclosure Program. Proof-of-concept exploits accepted, all findings patched by NASA security team.
+<details>
+<summary>🛰️ <b>NASA Recognition — full detail</b></summary>
+<br/>
+
+- Identified critical vulnerabilities in **production public-facing NASA systems** through authorized testing
+- Developed and submitted proof-of-concept exploits with detailed remediation guidance
+- All findings **accepted and patched** by the NASA security team
+- Demonstrated disciplined operation within legal scope boundaries and responsible disclosure timelines
+
+</details>
 
 ---
 
@@ -154,6 +192,21 @@ OUTPUT    →  Dark-themed HTML dashboard
 </details>
 
 <details>
+<summary><b>📱 Mobile Application Reverse Engineering — InsecureBankv2</b></summary>
+<br/>
+
+Full-cycle security assessment of a deliberately vulnerable Android application, mapped to **OWASP MASVS**, **MITRE ATT&CK Mobile**, and scored with **CVSS 3.1**.
+
+```
+STATIC     →  JADX-GUI / apktool decompilation, manifest & permission audit
+DYNAMIC    →  Frida & Objection instrumentation, runtime hooking, SSL pinning bypass
+NETWORK    →  Burp Suite MITM proxy, Wireshark capture, cleartext HTTP transmission analysis
+EXPLOIT    →  Hardcoded crypto keys, insecure local storage, exported component abuse
+```
+
+</details>
+
+<details>
 <summary><b>🌐 Web Application Security Portfolio (12+ CVSS-scored Reports)</b></summary>
 <br/>
 
@@ -205,6 +258,14 @@ POST-EXPL  →  /etc/shadow extraction · process enumeration · lateral movemen
 ![CrackMapExec](https://img.shields.io/badge/CrackMapExec-4EAA25?style=flat-square&logoColor=white)
 ![Rubeus](https://img.shields.io/badge/Rubeus-557C94?style=flat-square&logoColor=white)
 ![PowerView](https://img.shields.io/badge/PowerView-3178C6?style=flat-square&logoColor=white)
+
+**Mobile & Reverse Engineering**
+
+![JADX](https://img.shields.io/badge/JADX--GUI-3E4444?style=flat-square&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-83CD29?style=flat-square&logoColor=white)
+![Objection](https://img.shields.io/badge/Objection-CC0000?style=flat-square&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-4EAA25?style=flat-square&logoColor=white)
+![apktool](https://img.shields.io/badge/apktool-557C94?style=flat-square&logoColor=white)
 
 **Network & Analysis**
 
@@ -262,18 +323,20 @@ $ cat /ops/current_focus.log
 [ACTIVE]  TryHackMe
           └─ Junior Penetration Tester & Red Teaming paths completed
 
+[BUILDING] Reverse-Engineering-In-Mobile-Application (InsecureBankv2 assessment)
 [BUILDING] Lab rebuild automation scripts (clean pentesting environments)
 [BUILDING] Secure-by-default SaaS architecture research
 ```
 
 ---
 
-## ◈ Live Activity Feed
+## ◈ Contribution Activity
 
 ```bash
 $ tail -f /var/log/contribution_grid.log --follow
 ```
 
+<!-- Snake — eats the classic contribution graph -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vetementsvmnts/vetementsvmnts/output/github-contribution-grid-snake-dark.svg" />
@@ -282,26 +345,56 @@ $ tail -f /var/log/contribution_grid.log --follow
   </picture>
 </p>
 
-<sub>Auto-regenerated every 24h by GitHub Actions — see `.github/workflows/snake.yml`. Requires a repo literally named `vetementsvmnts` (a GitHub profile README repo) with an `output` branch. Setup steps below.</sub>
+<!-- Animated activity graph — trend line of commits over the last year -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vetementsvmnts&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+
+<!-- Stats row: core stats · top languages · streak -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vetementsvmnts&show_icons=true&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&hide_border=false&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetementsvmnts&layout=compact&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41&hide_border=false" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vetementsvmnts&theme=dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" height="170"/>
+</p>
+
+<!-- Trophy case — highlights standout stats as unlockable badges -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vetementsvmnts&theme=matrix&no-frame=true&no-bg=false&margin-w=8&column=7" />
+</p>
+
+<details>
+<summary>⚙️ <b>Set up the animated snake + activity graphs on your own profile</b></summary>
+<br/>
+
+**Snake game (contribution grid animation):**
+1. In the `vetementsvmnts/vetementsvmnts` profile repo, add `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk).
+2. The action pushes rendered SVGs to an `output` branch on a schedule (e.g. every 24h).
+3. Reference the `output` branch SVGs via `raw.githubusercontent.com` as shown above.
+
+**Activity graph / stats / streak / trophies:**
+These are hosted, self-updating services that read live from the GitHub API — no action required, just reference the image URL with your username. If a service is rate-limited or down, self-host it by forking the corresponding repo and deploying to Vercel.
+
+</details>
 
 ---
 
-## ◈ GitHub Stats
+## ◈ Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vetementsvmnts&show_icons=true&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetementsvmnts&layout=compact&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41&hide_border=false" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vetementsvmnts&theme=chartreuse-dark&border=00FF41&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="160"/>
-</p>
+<div align="center">
 
----
+| | |
+|:---:|:---|
+| 📧 | [`kitsanathuekoh@gmail.com`](mailto:kitsanathuekoh@gmail.com) |
+| 💼 | [linkedin.com/in/kitsana-thuekoh](https://www.linkedin.com/in/kitsana-thuekoh-66ba9b314/) |
+| 🐙 | [github.com/vetementsvmnts](https://github.com/vetementsvmnts) |
+| 📍 | Johannesburg, South Africa — Open to Remote |
+
+</div>
 
 <div align="center">
 
 *Penetration Tester · Offensive Security Researcher · NASA VDP Recognized*
-<br/>
-`kitsanathuekoh@gmail.com` · Johannesburg, ZA · Open to Remote
 
 </div>
