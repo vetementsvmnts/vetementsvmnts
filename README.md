@@ -17,30 +17,12 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/kitsana-thuekoh-66ba9b314/)
-[![GitHub](https://img.shields.io/badge/GitHub-vetementsvmnts-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/vetementsvmnts)
-[![Location](https://img.shields.io/badge/Johannesburg,_ZA-Open_to_Remote-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41)](mailto:kitsanathuekoh@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=vetementsvmnts&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/vetementsvmnts)
-
 <br/>
 
 <!-- Stack strip -->
 [![My Stack](https://skillicons.dev/icons?i=kali,linux,debian,redhat,mint,windows,py,bash,powershell,regex,vim,git,github,githubactions,gitlab,docker,mysql,nginx,aws,azure&theme=dark&perline=10)](https://skillicons.dev)
 
 <br/>
-
-<!-- Quick nav — jumps within the page -->
-<p align="center">
-  <a href="#-whoami">whoami</a> •
-  <a href="#-verified-credentials">Credentials</a> •
-  <a href="#-key-impact">Impact</a> •
-  <a href="#-active-engagements">Engagements</a> •
-  <a href="#-technical-projects">Projects</a> •
-  <a href="#-technical-arsenal">Arsenal</a> •
-  <a href="#-mitre-attck-coverage">ATT&CK</a> •
-  <a href="#-contribution-activity">Activity</a> •
-  <a href="#-lets-connect">Connect</a>
-</p>
 
 </div>
 
@@ -52,16 +34,10 @@ CPTS-certified penetration tester and **NASA-acknowledged vulnerability research
 
 Currently conducting red team engagements at **AI FinchTech** targeting web applications and REST/GraphQL APIs, while deepening Active Directory offensive capability and building automated threat hunting tooling that bridges offensive telemetry to SOC workflows.
 
-<details>
-<summary>🎯 <b>Ask me about...</b> <sub>(click to expand)</sub></summary>
+
 <br/>
 
-- Active Directory attack paths — Kerberoasting, AS-REP Roasting, Golden/Silver Tickets, DCSync
-- Chaining low/medium findings into critical attack paths on live red team engagements
-- Building agentless PowerShell threat-hunting tooling from native Windows telemetry
-- Mobile application reverse engineering — static/dynamic analysis, Frida instrumentation, APK teardown
-- Responsible disclosure workflows and coordinating with vendor security teams (incl. NASA VDP)
-- Bridging offensive security findings into SOC-ready SIEM detections
+
 
 </details>
 
@@ -90,7 +66,7 @@ $ certcheck --operator kitsana.thuekoh --verbose
 <tr>
 <td align="center" width="25%">
 
-**`20+`**
+**`200+`**
 <br/>HTB Machines Rooted
 <br/><sub>Kerberoasting · AS-REP Roasting<br/>Pass-the-Hash · Golden Ticket</sub>
 
@@ -121,30 +97,7 @@ $ certcheck --operator kitsana.thuekoh --verbose
 
 ---
 
-## ◈ Active Engagements
 
-```
-[ROLE]     Penetration Tester & Vulnerability Researcher
-[EMPLOYER] AI FinchTech (Stealth Startup) — Remote         May 2026 – Present
-           ├─ Full-scope red team engagements: web apps & REST/GraphQL APIs
-           ├─ Chained low/medium findings → high-impact attack paths
-           ├─ Custom payloads bypassing WAFs, rate limiting & auth controls
-           └─ Blind assessments simulating real-world threat actor TTPs
-
-[ROLE]     Network Engineer Consultant
-[EMPLOYER] Synk, Johannesburg                              Jan 2024 – Sep 2025
-           ├─ CVSS-triaged vulnerability findings correlated across SIEM & Windows event logs
-           ├─ Python automation reduced manual assessment time by 40%
-           └─ Technical + executive reporting: attack chains, risk posture, remediation
-
-[ROLE]     Cybersecurity Intern
-[EMPLOYER] Synk, Johannesburg                              Jan 2023 – Dec 2023
-           ├─ Structured attack chain documentation & remediation strategy support
-           ├─ Vulnerability scanning, finding triage, critical escalation
-           └─ IOC correlation across security telemetry
-```
-
----
 
 ## ◈ Technical Projects
 
