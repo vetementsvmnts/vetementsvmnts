@@ -51,12 +51,12 @@ $ certcheck --operator kitsana.thuekoh --verbose
 
 | | Certification | Authority | Status |
 |:---:|:---|:---|:---:|
-| 🔴 | **CPTS** — Certified Penetration Testing Specialist | HackTheBox | `ACTIVE` |
-| 🟠 | **OSCP** — Offensive Security Certified Professional | Offsec | `ACTIVE` |
-| 🔵 | **PenTest+** | CompTIA | `ACTIVE` |
-| 🟢 | **Security+** | CompTIA | `ACTIVE` |
-| 🛰️ | **NASA VDP** — Letter of Recognition | NASA | `AWARDED` |
-| 🔒 | **ISC2 CC** | ISC2 | `ACTIVE` |
+| | **CPTS** — Certified Penetration Testing Specialist | HackTheBox | `ACTIVE` |
+|  | **OSCP** — Offensive Security Certified Professional | Offsec | `ACTIVE` |
+| | **PenTest+** | CompTIA | `ACTIVE` |
+|  | **Security+** | CompTIA | `ACTIVE` |
+|  | **NASA VDP** — Letter of Recognition | NASA | `AWARDED` |
+|    | **ISC2 CC** | ISC2 | `ACTIVE` |
 
 ---
 
@@ -102,7 +102,7 @@ $ certcheck --operator kitsana.thuekoh --verbose
 ## ◈ Technical Projects
 
 <details open>
-<summary><b>🛰️ NASA Vulnerability Disclosure Program — Letter of Recognition</b></summary>
+<summary><b> NASA Vulnerability Disclosure Program — Letter of Recognition</b></summary>
 <br/>
 
 - Identified critical vulnerabilities in **production public-facing NASA systems** through authorized testing
@@ -113,7 +113,7 @@ $ certcheck --operator kitsana.thuekoh --verbose
 </details>
 
 <details>
-<summary><b>🔍 Threat Hunting Automation Framework (PowerShell)</b></summary>
+<summary><b>  Threat Hunting Automation Framework (PowerShell)</b></summary>
 <br/>
 
 Architected an **agentless, zero-dependency PowerShell framework** ingesting native Windows telemetry — Event Logs, Sysmon, Defender, Registry, WMI, Scheduled Tasks — across 6 modular risk-classification engines.
@@ -134,7 +134,7 @@ OUTPUT    →  Dark-themed HTML dashboard
 </details>
 
 <details>
-<summary><b>📱 Mobile Application Reverse Engineering — InsecureBankv2</b></summary>
+<summary><b>  Mobile Application Reverse Engineering — InsecureBankv2</b></summary>
 <br/>
 
 Full-cycle security assessment of a deliberately vulnerable Android application, mapped to **OWASP MASVS**, **MITRE ATT&CK Mobile**, and scored with **CVSS 3.1**.
@@ -149,7 +149,7 @@ EXPLOIT    →  Hardcoded crypto keys, insecure local storage, exported componen
 </details>
 
 <details>
-<summary><b>🌐 Web Application Security Portfolio (12+ CVSS-scored Reports)</b></summary>
+<summary><b>  Web Application Security Portfolio (12+ CVSS-scored Reports)</b></summary>
 <br/>
 
 Methodology-driven assessments against Juice Shop, DVWA, and PortSwigger Web Security Academy, aligned with **OWASP Testing Guide v4.2**.
@@ -165,7 +165,7 @@ Methodology-driven assessments against Juice Shop, DVWA, and PortSwigger Web Sec
 </details>
 
 <details>
-<summary><b>⚡ Vulnerability Assessment — CVE-2010-4221 (CVSS 10.0)</b></summary>
+<summary><b> Vulnerability Assessment — CVE-2010-4221 (CVSS 10.0)</b></summary>
 <br/>
 
 Authorized penetration test against Ubuntu 16.04.3 LTS identifying **ProFTPD 1.3.3c backdoor** — a decade-old unpatched vulnerability exposing unauthenticated remote root access.
