@@ -288,7 +288,6 @@ $ cat /ops/current_focus.log
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vetementsvmnts/vetementsvmnts/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vetementsvmnts/vetementsvmnts/output/github-contribution-grid-snake.svg" />
-    <img alt="a matrix-green snake eating Kitsana's github contribution graph" src="https://raw.githubusercontent.com/vetementsvmnts/vetementsvmnts/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -298,32 +297,21 @@ $ cat /ops/current_focus.log
 </p>
 
 <!-- Stats row: core stats · top languages · streak -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vetementsvmnts&show_icons=true&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&hide_border=false&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetementsvmnts&layout=compact&theme=chartreuse-dark&border_color=00FF41&bg_color=0d1117&title_color=00FF41&hide_border=false" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vetementsvmnts&theme=dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" height="170"/>
-</p>
+
 
 <!-- Trophy case — highlights standout stats as unlockable badges -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vetementsvmnts&theme=matrix&no-frame=true&no-bg=false&margin-w=8&column=7" />
+
 </p>
 
-<details>
-<summary>⚙️ <b>Set up the animated snake + activity graphs on your own profile</b></summary>
-<br/>
 
-**Snake game (contribution grid animation):**
-1. In the `vetementsvmnts/vetementsvmnts` profile repo, add `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk).
-2. The action pushes rendered SVGs to an `output` branch on a schedule (e.g. every 24h).
-3. Reference the `output` branch SVGs via `raw.githubusercontent.com` as shown above.
 
-**Activity graph / stats / streak / trophies:**
-These are hosted, self-updating services that read live from the GitHub API — no action required, just reference the image URL with your username. If a service is rate-limited or down, self-host it by forking the corresponding repo and deploying to Vercel.
 
-</details>
+
+
+
 
 ---
 
@@ -333,10 +321,10 @@ These are hosted, self-updating services that read live from the GitHub API — 
 
 | | |
 |:---:|:---|
-| 📧 | [`kitsanathuekoh@gmail.com`](mailto:kitsanathuekoh@gmail.com) |
-| 💼 | [linkedin.com/in/kitsana-thuekoh](https://www.linkedin.com/in/kitsana-thuekoh-66ba9b314/) |
-| 🐙 | [github.com/vetementsvmnts](https://github.com/vetementsvmnts) |
-| 📍 | Johannesburg, South Africa — Open to Remote |
+| | [`kitsanathuekoh@gmail.com`](mailto:kitsanathuekoh@gmail.com) |
+|  | [linkedin.com/in/kitsana-thuekoh](https://www.linkedin.com/in/kitsana-thuekoh-66ba9b314/) |
+|  | [github.com/vetementsvmnts](https://github.com/vetementsvmnts) |
+|  | Johannesburg, South Africa — Open to Remote |
 
 </div>
 
