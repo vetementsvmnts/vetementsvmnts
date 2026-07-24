@@ -30,9 +30,7 @@
 
 ## `whoami`
 
-CPTS-certified penetration tester and **NASA-acknowledged vulnerability researcher** who approaches every network, application, and system through the eyes of an attacker. I execute full attack chains aligned with **MITRE ATT&CK** — from initial reconnaissance through domain compromise — and translate findings into structured, executive-ready reports with actionable remediation guidance.
-
-Currently conducting red team engagements at **AI FinchTech** targeting web applications and REST/GraphQL APIs, while deepening Active Directory offensive capability and building automated threat hunting tooling that bridges offensive telemetry to SOC workflows.
+HTB CPTS-certified penetration tester and NASA-acknowledged vulnerability researcher with hands-on offensive security experience across Active Directory, web application, and network environments. Proven capability in full attack chain execution aligned with MITRE ATT&CK, from initial access through domain compromise, with structured documentation and executive ready remediation reporting. Developed autonomous threat hunting tooling bridging offensive telemetry analysis to defensive SOC workflows.
 
 
 <br/>
