@@ -41,6 +41,69 @@ HTB CPTS-certified penetration tester and NASA-acknowledged vulnerability resear
 
 ---
 
+## ◈ Technical Arsenal
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Offensive Frameworks**
+<br/>
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logoColor=00FF41)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-0d1117?style=flat-square&logoColor=00FF41)
+![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-0d1117?style=flat-square&logo=burpsuite&logoColor=00FF41)
+![SQLMap](https://img.shields.io/badge/SQLMap-0d1117?style=flat-square&logoColor=00FF41)
+![Hashcat](https://img.shields.io/badge/Hashcat-0d1117?style=flat-square&logoColor=00FF41)
+![John the Ripper](https://img.shields.io/badge/JtR-0d1117?style=flat-square&logoColor=00FF41)
+
+**Active Directory**
+<br/>
+![BloodHound](https://img.shields.io/badge/BloodHound-0d1117?style=flat-square&logoColor=00FF41)
+![Impacket](https://img.shields.io/badge/Impacket-0d1117?style=flat-square&logoColor=00FF41)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-0d1117?style=flat-square&logoColor=00FF41)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-0d1117?style=flat-square&logoColor=00FF41)
+![Rubeus](https://img.shields.io/badge/Rubeus-0d1117?style=flat-square&logoColor=00FF41)
+![PowerView](https://img.shields.io/badge/PowerView-0d1117?style=flat-square&logoColor=00FF41)
+
+</td>
+<td valign="top" width="50%">
+
+**Mobile & Reverse Engineering**
+<br/>
+![JADX](https://img.shields.io/badge/JADX--GUI-0d1117?style=flat-square&logoColor=00FF41)
+![Frida](https://img.shields.io/badge/Frida-0d1117?style=flat-square&logo=frida&logoColor=00FF41)
+![Objection](https://img.shields.io/badge/Objection-0d1117?style=flat-square&logoColor=00FF41)
+![MobSF](https://img.shields.io/badge/MobSF-0d1117?style=flat-square&logoColor=00FF41)
+![apktool](https://img.shields.io/badge/apktool-0d1117?style=flat-square&logoColor=00FF41)
+
+**Network & Analysis**
+<br/>
+![Nmap](https://img.shields.io/badge/Nmap_(NSE)-0d1117?style=flat-square&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00FF41)
+![Nessus](https://img.shields.io/badge/Nessus-0d1117?style=flat-square&logoColor=00FF41)
+![tcpdump](https://img.shields.io/badge/tcpdump-0d1117?style=flat-square&logoColor=00FF41)
+![Snort](https://img.shields.io/badge/Snort-0d1117?style=flat-square&logoColor=00FF41)
+
+</td>
+</tr>
+</table>
+
+**SIEM & Detection**
+<br/>
+![Splunk](https://img.shields.io/badge/Splunk_(SPL)-0d1117?style=flat-square&logo=splunk&logoColor=00FF41)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-0d1117?style=flat-square&logo=elastic&logoColor=00FF41)
+![Sysmon](https://img.shields.io/badge/Sysmon-0d1117?style=flat-square&logoColor=00FF41)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-0d1117?style=flat-square&logoColor=00FF41)
+
+**Development**
+<br/>
+![Python](https://img.shields.io/badge/Python_(Scapy·Impacket·Requests)-0d1117?style=flat-square&logo=python&logoColor=00FF41)
+![PowerShell](https://img.shields.io/badge/PowerShell_(WMI·CIM·.NET)-0d1117?style=flat-square&logo=powershell&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00FF41)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00FF41)
+
+---
+
 ## ◈ Verified Credentials
 
 ```bash
@@ -94,8 +157,6 @@ $ certcheck --operator kitsana.thuekoh --verbose
 </table>
 
 ---
-
-
 
 ## ◈ Technical Projects
 
@@ -176,69 +237,6 @@ POST-EXPL  →  /etc/shadow extraction · process enumeration · lateral movemen
 ```
 
 </details>
-
----
-
-## ◈ Technical Arsenal
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Offensive Frameworks**
-<br/>
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logoColor=00FF41)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-0d1117?style=flat-square&logoColor=00FF41)
-![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-0d1117?style=flat-square&logo=burpsuite&logoColor=00FF41)
-![SQLMap](https://img.shields.io/badge/SQLMap-0d1117?style=flat-square&logoColor=00FF41)
-![Hashcat](https://img.shields.io/badge/Hashcat-0d1117?style=flat-square&logoColor=00FF41)
-![John the Ripper](https://img.shields.io/badge/JtR-0d1117?style=flat-square&logoColor=00FF41)
-
-**Active Directory**
-<br/>
-![BloodHound](https://img.shields.io/badge/BloodHound-0d1117?style=flat-square&logoColor=00FF41)
-![Impacket](https://img.shields.io/badge/Impacket-0d1117?style=flat-square&logoColor=00FF41)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-0d1117?style=flat-square&logoColor=00FF41)
-![CrackMapExec](https://img.shields.io/badge/CrackMapExec-0d1117?style=flat-square&logoColor=00FF41)
-![Rubeus](https://img.shields.io/badge/Rubeus-0d1117?style=flat-square&logoColor=00FF41)
-![PowerView](https://img.shields.io/badge/PowerView-0d1117?style=flat-square&logoColor=00FF41)
-
-</td>
-<td valign="top" width="50%">
-
-**Mobile & Reverse Engineering**
-<br/>
-![JADX](https://img.shields.io/badge/JADX--GUI-0d1117?style=flat-square&logoColor=00FF41)
-![Frida](https://img.shields.io/badge/Frida-0d1117?style=flat-square&logo=frida&logoColor=00FF41)
-![Objection](https://img.shields.io/badge/Objection-0d1117?style=flat-square&logoColor=00FF41)
-![MobSF](https://img.shields.io/badge/MobSF-0d1117?style=flat-square&logoColor=00FF41)
-![apktool](https://img.shields.io/badge/apktool-0d1117?style=flat-square&logoColor=00FF41)
-
-**Network & Analysis**
-<br/>
-![Nmap](https://img.shields.io/badge/Nmap_(NSE)-0d1117?style=flat-square&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00FF41)
-![Nessus](https://img.shields.io/badge/Nessus-0d1117?style=flat-square&logoColor=00FF41)
-![tcpdump](https://img.shields.io/badge/tcpdump-0d1117?style=flat-square&logoColor=00FF41)
-![Snort](https://img.shields.io/badge/Snort-0d1117?style=flat-square&logoColor=00FF41)
-
-</td>
-</tr>
-</table>
-
-**SIEM & Detection**
-<br/>
-![Splunk](https://img.shields.io/badge/Splunk_(SPL)-0d1117?style=flat-square&logo=splunk&logoColor=00FF41)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-0d1117?style=flat-square&logo=elastic&logoColor=00FF41)
-![Sysmon](https://img.shields.io/badge/Sysmon-0d1117?style=flat-square&logoColor=00FF41)
-![Sigma](https://img.shields.io/badge/Sigma_Rules-0d1117?style=flat-square&logoColor=00FF41)
-
-**Development**
-<br/>
-![Python](https://img.shields.io/badge/Python_(Scapy·Impacket·Requests)-0d1117?style=flat-square&logo=python&logoColor=00FF41)
-![PowerShell](https://img.shields.io/badge/PowerShell_(WMI·CIM·.NET)-0d1117?style=flat-square&logo=powershell&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00FF41)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00FF41)
 
 ---
 
