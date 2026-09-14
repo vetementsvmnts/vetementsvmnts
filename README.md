@@ -30,7 +30,7 @@
 
 ## `whoami`
 
-HTB CPTS-certified penetration tester and NASA-acknowledged vulnerability researcher with hands-on offensive security experience across Active Directory, web application, and network environments. Proven capability in full attack chain execution aligned with MITRE ATT&CK, from initial access through domain compromise, with structured documentation and executive ready remediation reporting. Developed autonomous threat hunting tooling bridging offensive telemetry analysis to defensive SOC workflows.
+Offensive security professional with a recognized Vulnerability Disclosure to NASA . Proven  ability to execute full attack chains from initial access to domain compromise, identifying business-logic and authorization flaws that automated  tools miss. I am seeking a penetration testing role where I can leverage my deep technical expertise to directly strengthen an organization's  security posture.
 
 
 <br/>
