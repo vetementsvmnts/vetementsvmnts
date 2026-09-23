@@ -11,13 +11,6 @@
 
 # Kitsana Thuekoh
 
-**`Penetration Tester · Offensive Security Researcher · Vulnerability Disclosure`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=HTB+CPTS+%7C+OSCP+%7C+CompTIA+PenTest%2B+%7C+Security%2B;NASA+Vulnerability+Disclosure+Program+%E2%80%94+Letter+of+Recognition;Full+Attack+Chain+%7C+MITRE+ATT%26CK+Aligned;Active+Directory+%7C+Web+App+%7C+Network+Penetration+Testing)](https://git.io/typing-svg)
-
-<br/>
-
-<br/>
 
 <!-- Stack strip -->
 [![My Stack](https://skillicons.dev/icons?i=kali,linux,debian,redhat,mint,windows,py,bash,powershell,regex,vim,git,github,githubactions,gitlab,docker,mysql,nginx,aws,azure&theme=dark&perline=10)](https://skillicons.dev)
@@ -102,24 +95,9 @@ Offensive security professional with a recognized Vulnerability Disclosure to NA
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00FF41)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00FF41)
 
----
 
-## ◈ Verified Credentials
 
-```bash
-$ certcheck --operator kitsana.thuekoh --verbose
-```
 
-| | Certification | Authority | Status |
-|:---:|:---|:---|:---:|
-| | **CPTS** — Certified Penetration Testing Specialist | HackTheBox | `ACTIVE` |
-|  | **OSCP** — Offensive Security Certified Professional | Offsec | `ACTIVE` |
-| | **PenTest+** | CompTIA | `ACTIVE` |
-|  | **Security+** | CompTIA | `ACTIVE` |
-|  | **NASA VDP** — Letter of Recognition | NASA | `AWARDED` |
-|    | **ISC2 CC** | ISC2 | `ACTIVE` |
-
----
 
 ## ◈ Key Impact
 
@@ -237,6 +215,46 @@ POST-EXPL  →  /etc/shadow extraction · process enumeration · lateral movemen
 ```
 
 </details>
+
+---
+
+## ◈ Blue Team & Detection Engineering
+
+While my primary lane is offensive, I build and operate the defensive side too — SIEM engineering, detection logic, and telemetry-driven threat hunting that closes the loop on what red team work uncovers.
+
+```
+SIEM         →  Splunk Enterprise + Sysmon lab: log onboarding, index design,
+                 SPL query development, MITRE ATT&CK-mapped detections
+DETECTION    →  Threat Hunting Automation Framework (PowerShell) — agentless
+                 collection across Event Logs, Sysmon, Defender, Registry,
+                 WMI, Scheduled Tasks; 6 modular risk-classification engines
+REPORTING    →  Executive and SOC-analyst report formats, Sigma-style
+                 detection logic, CSV exports for downstream SIEM ingestion
+```
+
+<details>
+<summary><b>  Windows SIEM Lab — Splunk + Sysmon</b></summary>
+<br/>
+
+Built a Windows-focused SIEM lab on **Splunk Enterprise** with Sysmon as the primary telemetry source, developing SPL queries and detections mapped to **MITRE ATT&CK**, delivered across multiple executive and technical report formats.
+
+</details>
+
+---
+
+## ◈ Reverse Engineering
+
+Reverse engineering runs through both my mobile assessment and malware/telemetry-analysis work — decompiling, instrumenting, and tracing behavior down to the binary and API-call level rather than relying on automated scanners alone.
+
+```
+MOBILE (Android)  →  JADX-GUI / apktool static decompilation
+                      Frida & Objection dynamic instrumentation and hooking
+                      SSL pinning bypass, hardcoded secret and crypto-key recovery
+                      Exported component and IPC abuse analysis
+WINDOWS           →  Native telemetry reverse analysis (Event Logs, Sysmon, WMI,
+                      Registry) to reconstruct attacker technique from raw
+                      artifacts — COM hijacking, persistence, execution-policy bypass
+```
 
 ---
 
