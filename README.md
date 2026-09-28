@@ -105,8 +105,8 @@ Offensive security professional with a recognized Vulnerability Disclosure to NA
 <tr>
 <td align="center" width="25%">
 
-**`200+`**
-<br/>HTB Machines Rooted
+**`300+`**
+<br/>TryHackMe Machines Rooted
 <br/><sub>Kerberoasting · AS-REP Roasting<br/>Pass-the-Hash · Golden Ticket</sub>
 
 </td>
